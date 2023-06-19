@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Shikhar's github stats](https://github-readme-stats.vercel.app/api?username=shikhar-0&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shikhar-0)](https://github.com/shikhar-0/github-readme-stats)
